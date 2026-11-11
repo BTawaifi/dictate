@@ -1,0 +1,9 @@
+.venv/
+.venv-*/
+__pycache__/
+*.log
+*.lnk
+*.wav
+bench/
+dictate.cmd
+pyrightconfig.json

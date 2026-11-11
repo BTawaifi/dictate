@@ -1,0 +1,6 @@
+keyboard>=0.13.5
+numpy>=1.26
+pillow>=10
+pystray>=0.19.5
+sherpa-onnx>=1.12
+sounddevice>=0.4.6
